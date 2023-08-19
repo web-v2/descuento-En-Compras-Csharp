@@ -1,4 +1,4 @@
-﻿<image src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="Descripción de la imagen">
+﻿<image src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" alt="Descripción de la imagen" width="300" height="300">
 
 # Descuentos aplicados al valor de Una compra C#
 
